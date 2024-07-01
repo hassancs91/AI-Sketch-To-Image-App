@@ -3,6 +3,8 @@ from streamlit_drawable_canvas import st_canvas
 from helpers import get_image_description, generate_realistic_image
 from PIL import Image
 
+
+
 STYLES = [
     "Photorealistic", "Oil painting", "Watercolor", "Digital art",
     "Pencil sketch", "Anime", "Comic book", "Abstract",
